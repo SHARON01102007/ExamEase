@@ -1,0 +1,8 @@
+{
+  "name": "Remix ExamEase – Online Examination System",
+  "description": "A comprehensive, realistic online examination portal for colleges, supporting role-based authentication, exam creation and delivery, real-time timer with autosave, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
